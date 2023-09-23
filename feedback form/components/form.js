@@ -108,7 +108,7 @@ function FeedbackForm() {
             (<Card>
                 <Card.Header>
                     <cite title="Source Title">We are committed to providing you with the best
-                        dining experience possible, so we welcome your comments.
+                        curriculum possible, so we welcome your comments.
                     </cite>
                 </Card.Header>
                 <Card.Body>

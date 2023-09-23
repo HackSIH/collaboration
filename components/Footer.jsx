@@ -12,15 +12,15 @@ export default function Footer() {
   const contactInfo=[
     {
       icon:<MdEmail/>,
-      value:"medhavisaxena04@gmail.com",
+      value:"aicteportal@gmail.com",
     },
     {
       icon:<MdPhoneInTalk/>,
-      value:"+91 9891226520",
+      value:"+91 9891xxxxxx",
     },
     {
       icon:<IoLocationSharp/>,
-      value:"A-18,Delhi",
+      value:"AICTE Nelson Mandela Marg, Vasant Kunj,New Delhi -110070",
     },
   ];
   const socialIcons=[
@@ -35,7 +35,7 @@ export default function Footer() {
         <div className="brand">
           <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/All_India_Council_for_Technical_Education_logo.png/220px-All_India_Council_for_Technical_Education_logo.png" alt="logo"/>
         </div>
-        <p className="description">A-18,Delhi</p>
+        <p className="description">AICTE Nelson Mandela Marg, Vasant Kunj,New Delhi -110070</p>
         <div className="social-icons">
           {socialIcons.map((icon)=>{
             return <div className="icon">{icon}</div>;

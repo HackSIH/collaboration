@@ -16,7 +16,7 @@ export default function Home() {
       </div>
       
        <div className="image">
-        <img src='https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/All_India_Council_for_Technical_Education_logo.png/220px-All_India_Council_for_Technical_Education_logo.png'alt="here"/>
+        <img src='https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/logo_1200x768.jpeg'alt="here"/>
       </div>
       </div>
      
